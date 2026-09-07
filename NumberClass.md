@@ -1,5 +1,4 @@
 # NumberClass
-El programa tomara el numero entero digitado e indicara si este corresponde a un numero múltiplo de 100
 import java.util.Scanner;
 public class NomberClass{
 	public static void main(String args[]) {
